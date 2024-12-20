@@ -1,12 +1,11 @@
 # MEI-GMD
 MEI transcriptions of the MIDI files from the [Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)  (GMD)
 
-Groove MIDI dataset v.1.0.0 midionly  
-in [https://magenta.tensorflow.org/datasets/groove](https://magenta.tensorflow.org/datasets/groove)
+Groove MIDI dataset v.1.0.0 midionly in [https://magenta.tensorflow.org/datasets/groove](https://magenta.tensorflow.org/datasets/groove)
 
 
 
-THE TOOLS USED FOR TRANSCRIPTION HEVE BEEN HIDDEN DUE TO ANONYMITY RESTRICTIONS
+THE REFERENCE TO TOOLS USED FOR TRANSCRIPTION HEVE BEEN HIDDEN DUE TO ANONYMITY RESTRICTIONS
 
 
 
