@@ -1,5 +1,5 @@
 # MEI-GMD
-MEI transcriptions of the MIDI files from the [Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)  (GMD v.1.0.0-midionly in [https://magenta.tensorflow.org/datasets/groove](https://magenta.tensorflow.org/datasets/groove)).
+MEI transcriptions (Agostini notation) of the MIDI files from the [Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)  (GMD v.1.0.0-midionly in [https://magenta.tensorflow.org/datasets/groove](https://magenta.tensorflow.org/datasets/groove)).
 
 The MIDI files of the GMD are captation of human performances of professional or semi-professional drummers on an electronic drum kit ROLAND T-11.
 
