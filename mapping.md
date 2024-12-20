@@ -1,33 +1,39 @@
 # Drum codes
+mapping of MIDI keys into note names
+in Agostini and Universal Drum Notations 
+for Roland and GM instruments
+
 cf. https://magenta.tensorflow.org/datasets/groove
-for Roland and GM mappings.
 
 | MIDI | note Agostini | note US | Roland | GM   | DrumCode |
 |------|---------|---------|-------|--------|----------|
-| 36 | D4 | F4 | Kick   | Bass  | `BD` |
-| 38 | B4 | C5 | Snare Head | Ac. Snare | `SN` |
-| 40 | B4 | C5  | Snare Rim  | El. Snare | `SN` |
-| 37 | B4◇ | C5x | Snare X-Stick | Side Stick | `CS` |
-| 48 | E5 | E5 | Tom 1 | Hi-Mid Tom | `TOMH` |
-| 50 | E5 | D5 | Tom 1 Rim | Hi Tom | `TOMH` |
-| 45 | D5 | B4 | Tom 2 | Low Tom | `TOMM` |
-| 47 | D5 | A4 | Tom 2 Rim | Low-Mid Tom | `TOMM` |
-| 43 | F4 | G4 | Tom 3 Head | High Floor Tom | `TOMFL` |
-| 58 | F4 |  | Tom 3 Rim  | Vibraslap | `TOMFL` |
-| 46 | B3ⓧ | F5ⓧ | HH Open Bow | Open HH  | `HHO` |
-| 26 | B3ⓧ | | HH Open Edge | N/A | `HHO` |
-| 42 | B3x | F5x | HH Closed Bow | Closed HH  | `HHC` |
-| 22 | B3x | D4ⓧ?| HH Closed Edge | N/A | `HHC` |
-| 44 | G5ⓧ | D4x | HH Pedal | id. | `HHP` |
-| 49 |   | A5x | Crash 1 Bow | Crash Cymbal 1 |  |
-| 55 | B5x | B5◇ | Crash 1 Edge | Splash Cymbal | `CR` |
-| 57 |    | | Crash 2 Bow | Crash Cymbal 2 |  |
-| 52 |    | B5ⓧ | Crash 2 Edge | Chinese Cymbal |  |
-| 51 | G5x | G5x | Ride Bow | Ride Cymbal 1 | `RD` |
-| 59 | B5x | | Ride Edge | Ride Cymbal 2 | `RC` |
-| 53 | B5◇ | G5◆ | Ride Bell | Ride Bell | `RB` |
+| 36 | D4 (*62*) | F4 (*65*) | Kick   | Bass  | `BD` |
+| 38 | B4 (*71*) | C5 (*72*) | Snare Head | Ac. Snare | `SD` |
+| 40 | B4/ (*71*) | C5 (*72*) | Snare Rim  | El. Snare | `SDR` |
+| 37 | B4x (*71*) | C5x (*72*) | Snare X-Stick | Side Stick | `SDX` |
+| 48 | E5 (*76*) | E5 (*76*) | Tom 1 | Hi-Mid Tom | `TH` |
+| 50 | E5/ (*76*) | E5 (*76*) | Tom 1 Rim | Hi Tom | `THR` |
+| 45 | C5 (*72*) | D5 (*74*) | Tom 2 | Low Tom | `TM` |
+| 47 | C5/ (*72*) | D5 (*74*) | Tom 2 Rim | Low-Mid Tom | `TMR` |
+| 43 | F4 (*65*) | A4 (*69*) | Tom 3 Head | High Floor Tom | `TF` |
+| 58 | F4/ (*65*) | A4 (*69*) | Tom 3 Rim  | Vibraslap | `TFR` |
+| 46 | G5ⓧ (*79*) | G5ⓧ (*79*) | HH Open Bow | Open HH  | `HHO` |
+| 26 | G5ⓧ (*79*) | G5ⓧ (*79*) | HH Open Edge | N/A | `HHO` (*) |
+| 42 | G5x (*79*) | G5x (*79*) | HH Closed Bow | Closed HH  | `HHC` |
+| 22 | G5x (*79*) | G5x (*79*) | HH Closed Edge | N/A | `HHC` (*) |
+| 44 | B3ⓧ / x (*59*) | D4x (*62*) | HH Pedal | id. | `HHP` |
+| 49 | C6x (*84*) | A5x (*81*) | Crash 1 Bow | Crash Cymbal 1 | `C1B` |
+| 55 | B5x (*83*) | B5x (*83*) | Crash 1 Edge | Splash Cymbal | `C1E` |
+| 57 | D6x ? (*86*) | C6x ? (*84*) | Crash 2 Bow | Crash Cymbal 2 | `C2B` |
+| 52 | C6ⓧ (*84*) | B5ⓧ (*83*) | Crash 2 Edge | Chinese Cymbal | `C2E` |
+| 51 | A5x (*81*) | F5x (*77*) | Ride Bow | Ride Cymbal 1 | `RB` |
+| 59 | A5ⓧ (*81*) | F5ⓧ (*77*) | Ride Edge | Ride Cymbal 2 | `RE` |
+| 53 | A5◇ ? (*81*) | F5◆ ?  (*77*) | Ride Bell | Ride Bell | `RC` |
 
+- bow (cymbal or HH) = stick on the part between the edge and the bell – the largest surface. 
 
+- HH Pedal: difference de notation Agostini pour
+  - Open HH Pedal = B3ⓧ
+  - Closed HH Pedal = B3x
 
-- HH Pedal = closed Hi-Hat
-- HH Open bow = stick on the part between the edge and the bell – the largest surface. 
+- cow bell = A5▾ (Agostini) or B5▾ (US)
