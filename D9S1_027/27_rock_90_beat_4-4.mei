@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-96b6b4ad-f4ba-465d-a33c-84ce912d9ff0" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+	<meiHead xml:id="m-39ebd403-5f5d-47c7-92ee-e71337aad320">
+		<fileDesc xml:id="m-9040d981-9a29-419a-910b-68186ea7f1f9">
+			<titleStmt xml:id="m-0eef3abf-5905-44c4-ac75-b83f86f07510">
+				<title xml:id="m-8b66a20a-15cc-428e-ab48-25a3172fd487">27_rock_90_beat_4-4</title>
+			</titleStmt>
+			<titleStmt xml:id="m-0eef3abf-5905-44c4-ac75-b83f86f07510">
+				<title xml:id="m-8b66a20a-15cc-428e-ab48-25a3172fd487">27_rock_90_beat_4-4</title>
+			</titleStmt>
+		</fileDesc>
+	</meiHead>
+	<music xml:id="m-82ec0624-8820-460f-b578-1bdbd67c7c06">
+		<body xml:id="m-cd6264d4-5ead-44d5-8eff-8407d654dd9c">
+			<mdiv xml:id="m-82da34eb-998b-47d2-a0f4-b3b56642ab9e">
+				<score xml:id="m-c9ee1ab0-db0d-4be1-b3f9-3a250ab9d434">
+					<scoreDef xml:id="m-3e9469e3-9749-4226-9d7f-12eb285f27f3" meter.count="4" meter.unit="4" keysig="0">
+						<staffGrp xml:id="m-32de0829-e64c-416b-a146-433b85907668">
+							<staffDef xml:id="m-ed395afe-4f6f-4735-9b4f-b0ba2c31297c" n="1" lines="5" keysig="0" meter.count="4" meter.unit="4">
+								<clef xml:id="m-c6d0f9cb-83fe-4166-a95c-a7658b9b5cb0" shape="perc" line="3" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-8bddcf36-d0ae-476a-a879-a2a5c1d69263">
+						<measure xml:id="m-7b6f5d20-f6b5-44c1-aa5a-dfa4f3fe8cc1" n="1">
+							<staff xml:id="m-bc47e40c-88d2-43d1-8db7-ca623715637a" n="1">
+								<layer xml:id="m-f547df80-d529-48ca-aa09-1ae339e108c7" n="1">
+									<rest xml:id="m-a00e849a-8fdd-46fb-999d-1a36d7f6452f" dur="4" />
+									<note xml:id="m-c9787473-261f-4560-b6cd-986e2a72156d" pname="b" oct="4" head.shape="x" head.mod="circle" head.fill="void" dur="4" />
+									<beam xml:id="m-c5bedda4-23d3-416a-acb5-19d503fa8fe8">
+										<note xml:id="m-f73df8c6-60d4-42a3-9965-b00a61df6c6c" pname="b" oct="4" head.shape="x" head.mod="circle" head.fill="void" dur="8" />
+										<note xml:id="m-965f8e42-af39-45b4-b59a-34f9308d2abb" pname="b" oct="4" head.shape="x" head.fill="void" dur="8" />
+									</beam>
+									<rest xml:id="m-00d6c1d2-1679-432d-9b7c-036d14818d36" dur="4" />
+								</layer>
+								<layer xml:id="m-8e26e08c-4608-4ade-b7f2-846f5f514a46" n="2">
+									<rest xml:id="m-f9aa47b7-1893-4b4e-aa8a-4bd65ff16798" dur="8" />
+									<note xml:id="m-43d4ec79-01a3-481c-bf89-8a87e7eae5ca" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+									<beam xml:id="m-a2a71512-bc49-4c03-bc2f-3c65b4fa6954">
+										<note xml:id="m-793d4b6e-0be5-44ae-a9f3-188563f9d228" pname="c" oct="4" accid.ges="s" head.mod="slash" head.fill="solid" dur="8" />
+										<note xml:id="m-73a5e31e-4a27-4737-88af-4f2857d84f5e" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+									</beam>
+									<beam xml:id="m-8fb60d78-f0fb-4cb5-9574-5fa811da9d38">
+										<note xml:id="m-b5460113-94d0-44e0-9525-86f14fc07018" pname="c" oct="4" accid.ges="s" head.mod="slash" head.fill="solid" dur="16" />
+										<note xml:id="m-10c45aeb-0cdc-4d52-a887-a7f01bfe13df" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+										<note xml:id="m-30ca6b5f-ee66-46fe-8b33-2a3903f72851" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+										<note xml:id="m-d2e53ae1-35c7-45ff-b7d5-925b55de9e80" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="32" />
+										<note xml:id="m-9a96a6a6-4048-45a8-af65-5cc44d3f7d8d" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="32" />
+									</beam>
+									<beam xml:id="m-d6b24e05-d583-43a3-9f4b-6dea9fb9232e">
+										<tuplet xml:id="m-2bcfdb62-c897-49d6-88eb-bd2e78391732" bracket.visible="true" dur.visible="true" num="3" numbase="2" num.format="ratio">
+											<note xml:id="m-d4a58649-1999-4f1c-9ccb-542fdc3cd4df" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-22498d2b-64f7-4958-a397-abab76bd1b7d" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-06e8fc72-b462-4abe-91ff-f1054ee91bdb" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-97a94ed5-414b-41b5-8196-e591130e360b" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-82252be9-d244-4c86-a2cc-0935e3fc5919" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+										</tuplet>
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure xml:id="m-c7e349be-ae8c-43c5-b8b7-d73e0dfd1fc0" n="2">
+							<staff xml:id="m-c5cf5d9c-37fa-43b3-b888-10292478bcfb" n="1">
+								<layer xml:id="m-03ce3e17-be9e-4d05-89ea-96b003e39243" n="1">
+									<note xml:id="m-5ec972bd-611b-4858-af36-5c219e0adcdd" pname="c" oct="5" accid.ges="s" head.shape="x" head.fill="void" dur="1" />
+								</layer>
+								<layer xml:id="m-cf3cf107-c190-4319-a3ba-c8013df5b227" n="2">
+									<tuplet xml:id="m-e074b2c1-8af7-4f59-8f92-9f3ebdc07cb3" bracket.visible="true" dur.visible="true" num="3" numbase="2" num.format="ratio">
+										<rest xml:id="m-a6cd0faa-d1eb-4568-af52-2fec4d09afa9" dur="8" />
+										<note xml:id="m-c520c942-5f91-48fa-8980-1ce94aa0a391" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" dots="2" />
+										<beam xml:id="m-a1a55dd8-c11f-4280-9be1-1bad28bede7d">
+											<note xml:id="m-30d299a6-ea46-48e6-b55c-57eff2073434" pname="c" oct="4" accid.ges="s" head.mod="slash" head.fill="solid" dur="32" />
+											<note xml:id="m-0823eb1e-cf6a-42d6-988a-a82ebbdaab30" pname="c" oct="4" accid.ges="s" head.mod="slash" head.fill="solid" dur="8" />
+										</beam>
+										<rest xml:id="m-99a70259-c5c8-4f93-8751-7b50b5e8a95d" dur="8" dots="1" />
+										<note xml:id="m-276dd8a0-bc35-4732-9627-06877064d3af" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+										<beam xml:id="m-11d9c1f8-c6c2-4568-b7e9-7023a82eba8f">
+											<note xml:id="m-addb5c56-0ce3-4b6c-a676-61d325383fc2" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-1114ae32-5bf7-4922-97de-79c24e231f53" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" stem.mod="3slash" dur="16" dots="1" />
+											<note xml:id="m-b2f06da4-6f88-4e22-a48e-935d048be914" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-56be03a2-21c2-4185-82b1-31d956154ea9" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="32" />
+										</beam>
+										<tuplet xml:id="m-3ce44f94-7a52-41d3-bd3c-6fc98ee62fa4" bracket.visible="true" dur.visible="true" num="3" numbase="4" num.format="ratio">
+											<beam xml:id="m-339c9ca1-9541-4a10-ab67-f7e23c252f81">
+												<tuplet xml:id="m-b2e8d034-90ec-4f71-8fe6-71bd837299a5" bracket.visible="true" dur.visible="true" num="2" numbase="3" num.format="ratio">
+													<note xml:id="m-7ec86ba2-1f36-4b85-a715-d5a946aef6d4" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" />
+													<tuplet xml:id="m-b7c72c47-8e4d-48a4-b7bc-f489c21a373b" bracket.visible="true" dur.visible="true" num="16" numbase="27" num.format="ratio">
+														<beam xml:id="m-283560e5-ef44-4c94-8f1b-6eca7748f5df">
+															<tuplet xml:id="m-9c2154ff-3997-49da-9a64-5fc09dd34838" bracket.visible="true" dur.visible="true" num="128" numbase="243" num.format="ratio">
+																<note xml:id="m-7e68c811-f3fa-455e-a6c5-2e5b5ec4fb05" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="64" />
+																<note xml:id="m-1f2e5b13-3433-4cfe-ba5c-61da58a0495f" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="64" />
+															</tuplet>
+														</beam>
+														<rest xml:id="m-3783adb3-5967-4337-878e-7b6c292415ab" dur="32" />
+													</tuplet>
+												</tuplet>
+											</beam>
+											<beam xml:id="m-ee223d78-882b-4af4-b6cc-85238460a034">
+												<tuplet xml:id="m-56ffadb9-c28e-4072-9aeb-f0d707225ea8" bracket.visible="true" dur.visible="true" num="2" numbase="3" num.format="ratio">
+													<note xml:id="m-071f7a3d-f601-4258-9ddc-6361a122d3a0" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+													<tuplet xml:id="m-b328e834-d007-4494-9643-9dd3f6a29250" bracket.visible="false" dur.visible="true" num="16" numbase="27" num.format="ratio">
+														<note xml:id="m-37ea828c-6393-40e7-adf1-6b4b46c3c9c4" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="32" />
+														<note xml:id="m-a0808140-51ce-4157-92b9-12ec71d43dec" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="32" dots="1" />
+													</tuplet>
+												</tuplet>
+											</beam>
+											<beam xml:id="m-510ad2d9-dc63-4c35-b369-14aa7ef55dc7">
+												<tuplet xml:id="m-66d55273-8825-4d6b-93cb-efcb3b04192d" bracket.visible="true" dur.visible="true" num="2" numbase="3" num.format="ratio">
+													<tuplet xml:id="m-9141bc4d-c403-44a8-beb1-638c8ab74291" bracket.visible="false" dur.visible="true" num="16" numbase="27" num.format="ratio">
+														<tuplet xml:id="m-8096a7af-500e-4250-9c5e-14864c3a60cc" bracket.visible="true" dur.visible="true" num="128" numbase="243" num.format="ratio">
+															<note xml:id="m-a3c51c6a-90a0-4c21-9844-b497c3f43290" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="64" />
+														</tuplet>
+														<note xml:id="m-c32c7149-e44f-4784-b54d-14dae30ce7d7" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="16" />
+													</tuplet>
+													<tuplet xml:id="m-b8eb9f43-0e61-4e48-a9ba-2bf6d2b06ec6" bracket.visible="true" dur.visible="true" num="16" numbase="27" num.format="ratio">
+														<note xml:id="m-77db2f7e-429c-4c81-8413-985c27ab4b28" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="32" />
+													</tuplet>
+												</tuplet>
+											</beam>
+										</tuplet>
+									</tuplet>
+								</layer>
+							</staff>
+						</measure>
+						<measure xml:id="m-e6c1a5ff-f922-44fb-a1ab-fcc7673c7f2d" n="3">
+							<staff xml:id="m-3cde404e-75bd-4e06-86a2-82d878529754" n="1">
+								<layer xml:id="m-b1d49b68-8375-4e24-9a8e-9bd2a6eb4270" n="1">
+									<rest xml:id="m-347e55f9-3c4d-4638-b3b3-943b62941b32" dur="1" />
+								</layer>
+								<layer xml:id="m-3cf7b163-78b0-4b18-adb4-fdef47bd9995" n="2">
+									<tuplet xml:id="m-248c06fd-de86-4ff9-aac1-8dbb9ae267d6" bracket.visible="true" dur.visible="true" num="3" numbase="2" num.format="ratio">
+										<rest xml:id="m-efbdab31-f47f-4a37-b963-97a9f7ea1aa8" dur="32" />
+										<beam xml:id="m-b504171f-36d1-4ea1-b245-4a4329c8a66c">
+											<note xml:id="m-601d2f4c-d5c2-4d99-8604-2fba3bcbc264" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="32" />
+											<note xml:id="m-16ac87ba-e873-4d74-9cda-bcdd22176026" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-e0b61857-3aeb-47af-965e-4fe50de273c6" pname="g" oct="3" head.mod="slash" head.fill="solid" dur="32" />
+											<note xml:id="m-a997fc06-7695-4273-b365-f37088f0fd29" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="16" dots="1" />
+										</beam>
+										<rest xml:id="m-9895f7c1-cc23-4b76-a174-d07dd749a3ee" dur="2" />
+										<beam xml:id="m-59a8305a-2b7c-470b-89c3-df582131b725">
+											<note xml:id="m-25038b9f-92c5-4fb9-aa83-03a8ff8c0140" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="8" />
+											<chord xml:id="m-63087893-91c6-4f30-a33e-5a7ad102fd02" dur="8">
+												<note xml:id="m-316da4d2-cf04-48c5-9eef-b4264fafd911" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="8" />
+												<note xml:id="m-da1032af-8139-43d9-a0b1-aa3cb2d84cd0" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+											</chord>
+										</beam>
+										<note xml:id="m-02052844-865e-474d-80e8-88ce23842d2e" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" grace="acc" dur="8" />
+										<beam xml:id="m-f5d9000c-66b9-4022-9679-0b51b620b339">
+											<note xml:id="m-c79e3f5b-622b-496c-b0d9-adee8b667267" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="8" />
+											<chord xml:id="m-4548491f-c7f1-4591-bf39-2710405c845b" dur="8">
+												<note xml:id="m-66ce9c4f-c41a-4057-87ca-08e806cf4dfe" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+												<note xml:id="m-5db86309-df4e-4e96-b89f-d4814668eb28" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="8" />
+											</chord>
+										</beam>
+										<beam xml:id="m-538ac86a-7a2f-48e4-9be6-fbfa5257b85b">
+											<chord xml:id="m-39153779-70f8-4f2d-b347-4dc6d4149506" dur="16">
+												<note xml:id="m-a7b0a9d2-26bf-43ed-9337-6cdc4619529e" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="16" />
+												<note xml:id="m-088409b8-0234-4f2f-a2c7-89d571ab080f" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+											</chord>
+											<note xml:id="m-7493ccc5-e302-4934-bb6c-d67fde288486" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="16" />
+											<note xml:id="m-bad672a5-c19e-4ade-8a6f-e1f1b3983254" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+										</beam>
+									</tuplet>
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>
