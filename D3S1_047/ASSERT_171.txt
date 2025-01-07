@@ -1,0 +1,14 @@
+Processing D3S1_047
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D3S1_047/47_rock_120_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 1.484375sec = 1425ticks = 2.96875qn
+[warning] InputSegmentDrum[onset 4]: onset match not found, keeping link with offset 5 
+[info] Input Env: new drum voicing created (genre rock)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[error] RecordQueue[< -1 mtu[0, +∞) rtu[0, 1.48438) fst=0 len=? >]: no 1-best
+Assertion failed: (nbest), function bestPartial, file TableParse.tpp, line 171.
+

@@ -1,0 +1,34 @@
+Processing D8S2_004
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D8S2_004/4_afrobeat_114_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 186.76103961666615sec = 170326ticks = 354.84583333333336qn
+[warning] InputSegmentDrum[onset 1382]: onset match not found, keeping link with offset 1384 
+[warning] InputSegmentDrum[onset 2617]: onset match not found, keeping link with offset 2620 
+[warning] InputSegmentDrum[onset 2846]: onset match not found, keeping link with offset 2850 
+[warning] InputSegmentDrum[onset 2853]: onset match not found, keeping link with offset 2857 
+[warning] InputSegmentDrum[onset 2858]: onset match not found, keeping link with offset 2860 
+[warning] InputSegmentDrum[onset 3118]: onset match not found, keeping link with offset 3122 
+[warning] InputSegmentDrum[onset 3261]: onset match not found, keeping link with offset 3263 
+[warning] InputSegmentDrum[onset 4061]: onset match not found, keeping link with offset 4064 
+[warning] InputSegmentDrum[onset 4062]: onset match not found, keeping link with offset 4065 
+[warning] InputSegmentDrum[onset 4071]: onset match not found, keeping link with offset 4072 
+[warning] InputSegmentDrum[onset 4292]: onset match not found, keeping link with offset 4295 
+[warning] InputSegmentDrum[onset 4397]: onset match not found, keeping link with offset 4399 
+[warning] InputSegmentDrum[onset 4444]: onset match not found, keeping link with offset 4446 
+[warning] InputSegmentDrum[onset 4452]: onset match not found, keeping link with offset 4455 
+[warning] InputSegmentDrum[onset 4520]: onset match not found, keeping link with offset 4521 
+[warning] InputSegmentDrum[onset 4522]: onset match not found, keeping link with offset 4526 
+[warning] InputSegmentDrum[onset 4523]: onset match not found, keeping link with offset 4525 
+[warning] InputSegmentDrum[onset 4524]: onset match not found, keeping link with offset 4527 
+[info] Input Env: new drum voicing created (genre afrobeat)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] PEDAL CHORD LAG 2
+[warning] PEDAL CHORD LAG 2
+[warning] PEDAL CHORD LAG 2
+[error] RecordQueue[< -1 mtu[0, +∞) rtu[0, 186.761) fst=0 len=? >]: no 1-best
+Assertion failed: (nbest), function bestPartial, file TableParse.tpp, line 171.
+

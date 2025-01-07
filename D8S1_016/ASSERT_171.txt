@@ -1,0 +1,32 @@
+Processing D8S1_016
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D8S1_016/16_afrobeat_90_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 191.9653737604176sec = 138215ticks = 287.9479166666667qn
+[warning] InputSegmentDrum[onset 1461]: onset match not found, keeping link with offset 1463 
+[warning] InputSegmentDrum[onset 1544]: onset match not found, keeping link with offset 1547 
+[warning] InputSegmentDrum[onset 1694]: onset match not found, keeping link with offset 1697 
+[warning] InputSegmentDrum[onset 1840]: onset match not found, keeping link with offset 1842 
+[warning] InputSegmentDrum[onset 1899]: onset match not found, keeping link with offset 1902 
+[warning] InputSegmentDrum[onset 2147]: onset match not found, keeping link with offset 2150 
+[warning] InputSegmentDrum[onset 2608]: onset match not found, keeping link with offset 2611 
+[warning] InputSegmentDrum[onset 2654]: onset match not found, keeping link with offset 2656 
+[warning] InputSegmentDrum[onset 2666]: onset match not found, keeping link with offset 2671 
+[warning] InputSegmentDrum[onset 2727]: onset match not found, keeping link with offset 2730 
+[warning] InputSegmentDrum[onset 2735]: onset match not found, keeping link with offset 2737 
+[warning] InputSegmentDrum[onset 2760]: onset match not found, keeping link with offset 2763 
+[warning] InputSegmentDrum[onset 2851]: onset match not found, keeping link with offset 2853 
+[warning] InputSegmentDrum[onset 3068]: onset match not found, keeping link with offset 3069 
+[warning] InputSegmentDrum[onset 3077]: onset match not found, keeping link with offset 3079 
+[warning] InputSegmentDrum[onset 3088]: onset match not found, keeping link with offset 3091 
+[warning] InputSegmentDrum[onset 3094]: onset match not found, keeping link with offset 3099 
+[warning] InputSegmentDrum[onset 3102]: onset match not found, keeping link with offset 3103 
+[warning] InputSegmentDrum[onset 3105]: onset match not found, keeping link with offset 3106 
+[info] Input Env: new drum voicing created (genre afrobeat)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[error] RecordQueue[< -1 mtu[0, +∞) rtu[0, 191.965) fst=0 len=? >]: no 1-best
+Assertion failed: (nbest), function bestPartial, file TableParse.tpp, line 171.
+

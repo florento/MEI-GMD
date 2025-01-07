@@ -1,0 +1,36 @@
+ Processing D2S2_001
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D2S2_001/1_rock_130_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 204.922871999996sec = 213120ticks = 444qn
+[warning] InputSegmentDrum[onset 1014]: onset match not found, keeping link with offset 1016 
+[warning] InputSegmentDrum[onset 1311]: onset match not found, keeping link with offset 1314 
+[warning] InputSegmentDrum[onset 2640]: onset match not found, keeping link with offset 2642 
+[warning] InputSegmentDrum[onset 2836]: onset match not found, keeping link with offset 2837 
+[warning] InputSegmentDrum[onset 2840]: onset match not found, keeping link with offset 2841 
+[warning] InputSegmentDrum[onset 2853]: onset match not found, keeping link with offset 2855 
+[warning] InputSegmentDrum[onset 2891]: onset match not found, keeping link with offset 2893 
+[warning] InputSegmentDrum[onset 2896]: onset match not found, keeping link with offset 2897 
+[warning] InputSegmentDrum[onset 2930]: onset match not found, keeping link with offset 2931 
+[warning] InputSegmentDrum[onset 2996]: onset match not found, keeping link with offset 2997 
+[warning] InputSegmentDrum[onset 3014]: onset match not found, keeping link with offset 3015 
+[warning] InputSegmentDrum[onset 3022]: onset match not found, keeping link with offset 3023 
+[warning] InputSegmentDrum[onset 3030]: onset match not found, keeping link with offset 3031 
+[warning] InputSegmentDrum[onset 3032]: onset match not found, keeping link with offset 3033 
+[info] Input Env: new drum voicing created (genre rock)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] TableParse add: FAIL run for partial key < 0 mtu[16, 17) rtu[29.5385, 31.3846) fst=509 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[17, 18) rtu[31.3846, 33.2308) fst=540 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[18, 19) rtu[33.2308, 35.0769) fst=574 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[16, 17) rtu[29.5385, 31.3846) fst=510 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[16, 17) rtu[29.5385, 31.3846) fst=508 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[17, 18) rtu[31.3846, 33.2308) fst=539 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[18, 19) rtu[33.2308, 35.0769) fst=573 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[16, 17) rtu[29.5385, 31.3846) fst=511 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[10, 11) rtu[18.4615, 20.3077) fst=312 len=? >
+[error] RecordQueue[< -1 mtu[0, +∞) rtu[0, 204.923) fst=0 len=? >]: no 1-best
+Assertion failed: (nbest), function bestPartial, file TableParse.tpp, line 171.
+

@@ -1,0 +1,18 @@
+ Processing D5S2_007
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D5S2_007/7_neworleans-secondline_124_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 94.73186115416625sec = 93974ticks = 195.77916666666667qn
+[warning] InputSegmentDrum[onset 2639]: onset match not found, keeping link with offset 2643 
+[warning] InputSegmentDrum[onset 3009]: onset match not found, keeping link with offset 3010 
+[warning] InputSegmentDrum[onset 3051]: onset match not found, keeping link with offset 3059 
+[warning] InputSegmentDrum[onset 3052]: onset match not found, keeping link with offset 3053 
+[warning] InputSegmentDrum[onset 3056]: onset match not found, keeping link with offset 3057 
+[info] Input Env: new drum voicing created (genre neworleans)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[error] RecordQueue[< -1 mtu[0, +∞) rtu[0, 94.7319) fst=0 len=? >]: no 1-best
+Assertion failed: (nbest), function bestPartial, file TableParse.tpp, line 171.
+

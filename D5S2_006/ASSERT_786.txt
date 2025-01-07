@@ -1,0 +1,25 @@
+Processing D5S2_006
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D5S2_006/6_neworleans-secondline_99_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 271.9799747666613sec = 215408ticks = 448.76666666666665qn
+[warning] InputSegmentDrum[onset 3384]: onset match not found, keeping link with offset 3386 
+[warning] InputSegmentDrum[onset 4927]: onset match not found, keeping link with offset 4934 
+[warning] InputSegmentDrum[onset 6222]: onset match not found, keeping link with offset 6223 
+[warning] InputSegmentDrum[onset 6364]: onset match not found, keeping link with offset 6369 
+[warning] InputSegmentDrum[onset 6408]: onset match not found, keeping link with offset 6410 
+[warning] InputSegmentDrum[onset 6423]: onset match not found, keeping link with offset 6428 
+[warning] InputSegmentDrum[onset 6478]: onset match not found, keeping link with offset 6481 
+[warning] InputSegmentDrum[onset 6479]: onset match not found, keeping link with offset 6482 
+[warning] InputSegmentDrum[onset 6488]: onset match not found, keeping link with offset 6489 
+[warning] InputSegmentDrum[onset 6491]: onset match not found, keeping link with offset 6497 
+[warning] InputSegmentDrum[onset 6492]: onset match not found, keeping link with offset 6499 
+[warning] InputSegmentDrum[onset 6498]: onset match not found, keeping link with offset 6501 
+[warning] InputSegmentDrum[onset 6504]: onset match not found, keeping link with offset 6505 
+[info] Input Env: new drum voicing created (genre neworleans)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+Assertion failed: (_type_snare == 10 || _type_snare == 11 || _type_snare == 15 || _type_snare == 16 || _type_snare == 42 || _type_snare == 44 || _type_snare == 51 || _type_snare == 52 || _type_snare == 53 || _type_snare == 54), function finalize, file TokDrum.cpp, line 786.
+

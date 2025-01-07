@@ -1,0 +1,35 @@
+Processing D2S2_008
+[info] Input Env: read input segment from MIDI file /Users/jacquema/Datasets/GMDtranscript/scripts/../D2S2_008/8_rock_130_beat_4-4.mid track 65536, mode DRUM
+[info] MIDIfile: 1 tracks, hasJoinedTracks=1
+[info] MIDIfile: ticks per Quarter Note=480
+[info] MIDIfile: total time = 44.30764799999988sec = 46080ticks = 96qn
+[warning] InputSegmentDrum[onset 422]: onset match not found, keeping link with offset 424 
+[warning] InputSegmentDrum[onset 573]: onset match not found, keeping link with offset 575 
+[warning] InputSegmentDrum[onset 634]: onset match not found, keeping link with offset 635 
+[warning] InputSegmentDrum[onset 638]: onset match not found, keeping link with offset 640 
+[warning] InputSegmentDrum[onset 710]: onset match not found, keeping link with offset 711 
+[warning] InputSegmentDrum[onset 716]: onset match not found, keeping link with offset 717 
+[warning] InputSegmentDrum[onset 718]: onset match not found, keeping link with offset 720 
+[warning] InputSegmentDrum[onset 719]: onset match not found, keeping link with offset 721 
+[warning] InputSegmentDrum[onset 724]: onset match not found, keeping link with offset 725 
+[info] Input Env: new drum voicing created (genre rock)
+[info] found weight type Tropical in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: importing schema from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[info] SWTA import: 28 transitions succesfully parsed from /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] SWTAFileIn: could not read TS in /Users/jacquema/Datasets/GMDtranscript/scripts/../schemas/drum-44.wta
+[warning] TableParse add: FAIL run for partial key < 0 mtu[4, 5) rtu[7.38462, 9.23077) fst=127 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[5, 6) rtu[9.23077, 11.0769) fst=151 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[11, 12) rtu[20.3077, 22.1538) fst=355 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[12, 13) rtu[22.1538, 24) fst=372 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[13, 14) rtu[24, 25.8462) fst=401 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[18, 19) rtu[33.2308, 35.0769) fst=563 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[19, 20) rtu[35.0769, 36.9231) fst=597 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[20, 21) rtu[36.9231, 38.7692) fst=619 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[21, 22) rtu[38.7692, 40.6154) fst=646 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[18, 19) rtu[33.2308, 35.0769) fst=565 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[19, 20) rtu[35.0769, 36.9231) fst=599 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[5, 6) rtu[9.23077, 11.0769) fst=150 len=? >
+[warning] TableParse add: FAIL run for partial key < 0 mtu[2, 3) rtu[3.69231, 5.53846) fst=53 len=? >
+[error] RecordQueue[< -1 mtu[0, +∞) rtu[0, 44.3076) fst=0 len=? >]: no 1-best
+Assertion failed: (nbest), function bestPartial, file TableParse.tpp, line 171.
+
