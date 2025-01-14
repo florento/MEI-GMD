@@ -13,15 +13,15 @@
 0 -> E1          1       // whole
 0 -> E2          2       // flam + whole
 0 -> U2(1, 1)    1       // div. in 2 halves (unbeamed)
-0 -> U3(1, 1, 1) 33      // triplet of halves (unbeamed)
-0 -> U4(2, 2, 2, 2) 1       // div. in 4 beats (unbeamed)
+// 0 -> U3(1, 1, 1) 33      // triplet of halves (unbeamed)
+0 -> U4(2, 2, 2, 2) 1    // div. in 4 beats (unbeamed)
 
 // half bar level (half)
 1 -> C0           1
 1 -> E1           1      // half
 1 -> E2           2      // flam + half
 1 -> U2(2, 2)     1      // beats (quarters)
-1 -> U3(2, 2, 2)  33     // triplet of quarters
+// 1 -> U3(2, 2, 2)  33     // triplet of quarters
 
 // beat level (quarter)
 2 -> C0             1     // tied quarter

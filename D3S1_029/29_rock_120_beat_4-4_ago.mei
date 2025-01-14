@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-b49d3c65-54fc-4e5d-b5df-8ee6fc2d22f6" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+	<meiHead xml:id="m-43baa740-0106-40f7-baeb-3a633bfcc2ab">
+		<fileDesc xml:id="m-f5673998-ee2c-476c-8ce3-7581af840288">
+			<titleStmt xml:id="m-8d61417a-18da-4282-b66c-2459b16768ef">
+				<title xml:id="m-b7d50175-75f5-4fde-9bc2-9bbe2f12c078">29_rock_120_beat_4-4</title>
+			</titleStmt>
+			<titleStmt xml:id="m-8d61417a-18da-4282-b66c-2459b16768ef">
+				<title xml:id="m-b7d50175-75f5-4fde-9bc2-9bbe2f12c078">29_rock_120_beat_4-4</title>
+			</titleStmt>
+		</fileDesc>
+	</meiHead>
+	<music xml:id="m-f680c7e5-7ab9-48f7-9b0a-2af7e0af2252">
+		<body xml:id="m-168e6317-6f23-48f7-9461-f420deb9d3e9">
+			<mdiv xml:id="m-a8c9e84b-4384-45ed-a8b8-3ae560f2c022">
+				<score xml:id="m-e27af435-3cb7-4d61-a523-d85d70e366e4">
+					<scoreDef xml:id="m-c63a0d40-0e16-47d6-b3bc-14329bfb4f5f" meter.count="4" meter.unit="4" keysig="0">
+						<staffGrp xml:id="m-b4aea8e2-cdf2-4fda-9f51-c9991cf1fd80">
+							<staffDef xml:id="m-80dc6800-1054-4ddd-b774-cf5f455fc4cf" n="1" lines="5" keysig="0" meter.count="4" meter.unit="4">
+								<clef xml:id="m-ae50d65b-a089-4b68-aca0-6e7cd0ab42c7" shape="perc" line="3" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-46b977a9-170c-4a52-bb42-5b7d2d542882">
+						<measure xml:id="m-b97a02d5-eee5-4289-be1d-3ae2b70012d0" n="1">
+							<staff xml:id="m-279cdf1a-2d06-4bf9-bbec-4bf0b79d2231" n="1">
+								<layer xml:id="m-3808f2cd-cb4d-43e0-8cfb-72ec140f0aa1" n="1">
+									<rest xml:id="m-f4668a97-65c8-44d0-8cd1-3331e9e09709" dur="1" />
+								</layer>
+								<layer xml:id="m-cbb9cb3d-31b6-4674-95ce-60b80559f1e0" n="2">
+									<note xml:id="m-74f820fc-a05d-42b0-8d0c-9ae7f5068921" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" stem.mod="3slash" dur="4" />
+									<beam xml:id="m-12e5de3f-e9d6-4708-8984-2ced1511b93b">
+										<note xml:id="m-c55ed29a-c1ca-4fb8-9a49-0f183fcc5397" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" artic="acc" />
+										<note xml:id="m-906ea7b1-7689-4071-a088-95bc0a80668f" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="16" artic="acc" />
+										<note xml:id="m-8c4fc395-3866-4fc9-bdaf-609302546480" pname="f" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="8" artic="acc" />
+									</beam>
+									<beam xml:id="m-b4f5a229-80e3-49bc-8eb4-e95c13c372b7">
+										<note xml:id="m-35230873-cd7d-44ae-b931-96cd8be7660c" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="8" artic="acc" />
+										<note xml:id="m-f544e351-c092-4221-b44e-cc777771507f" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="16" artic="acc" />
+										<note xml:id="m-77ab1fd6-4d40-42ea-91a9-49457538984a" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="16" />
+									</beam>
+									<beam xml:id="m-3e6e84fa-001c-4c6c-a4d7-bce3fb5d32ff">
+										<note xml:id="m-ad733092-0883-47c4-80c7-bdb5c0e68d81" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="16" artic="acc" />
+										<note xml:id="m-e596df68-e6ef-48d6-9d15-d66f720703e4" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="16" artic="acc" />
+										<note xml:id="m-2c90060a-cbe9-4f5b-8623-0a901fc6c795" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="8" artic="acc" />
+									</beam>
+								</layer>
+							</staff>
+						</measure>
+						<measure xml:id="m-9bd77059-2df8-42d0-835e-59153e4a012a" n="2">
+							<staff xml:id="m-2668d0b2-e6f5-42b3-a48a-0a98f9632bef" n="1">
+								<layer xml:id="m-65fa84b9-d45c-4e88-8111-badfaaf45329" n="1">
+									<note xml:id="m-2894abcf-5032-489c-ae9a-6b13fdbefca0" pname="c" oct="5" accid.ges="s" head.shape="x" head.fill="void" dur="1" artic="acc" />
+								</layer>
+								<layer xml:id="m-f9ef951c-912f-47af-a7b4-3dbcc501d6b0" n="2">
+									<note xml:id="m-652ac953-0298-4351-bcd3-fd6fceea024a" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="1" />
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

@@ -55,3 +55,9 @@ see also https://magenta.tensorflow.org/datasets/groove#drum-mapping
 txt file from the GMD `info.cvs`
 
 
+
+### parse fails
+
+in a score file, a rest in red spanning over one bar is an indication of a parse fail.
+
+some statistics on the bars failed can be found in `results.csv`

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-ac3f04f8-86c0-41ec-b272-ba674e586bf3" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+	<meiHead xml:id="m-c00c41dd-fbf9-4928-9bc7-d763de277d97">
+		<fileDesc xml:id="m-d0099588-0a02-4116-9b30-d4c82db88605">
+			<titleStmt xml:id="m-3425ce1d-e84e-4d78-b911-9f13086e0b2a">
+				<title xml:id="m-f6b9a1d4-1417-45cc-b6e3-e5f1731c5727">47_rock_120_beat_4-4</title>
+			</titleStmt>
+			<titleStmt xml:id="m-3425ce1d-e84e-4d78-b911-9f13086e0b2a">
+				<title xml:id="m-f6b9a1d4-1417-45cc-b6e3-e5f1731c5727">47_rock_120_beat_4-4</title>
+			</titleStmt>
+		</fileDesc>
+	</meiHead>
+	<music xml:id="m-8e86f2dd-fe26-4bd3-b899-2ce48a97c976">
+		<body xml:id="m-ed71d79c-a20a-4f01-a11e-1223dd3cc993">
+			<mdiv xml:id="m-5f4a7e5e-9516-4b6b-a882-0d75677f12e1">
+				<score xml:id="m-c3dd5147-850a-41ba-b42f-0b544b5a82db">
+					<scoreDef xml:id="m-49e89b02-6ed5-42c3-ac56-a27ffa6da2c2" meter.count="4" meter.unit="4" keysig="0">
+						<staffGrp xml:id="m-49d5281e-bd3c-4967-8ee3-2a019c2eca71">
+							<staffDef xml:id="m-0b609dc4-5161-4885-965d-41983421877f" n="1" lines="5" keysig="0" meter.count="4" meter.unit="4">
+								<clef xml:id="m-805140b7-eadf-48a1-b0e4-d06e77c9cc5e" shape="perc" line="3" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-af10dda2-5c00-4bea-a985-ef50133eeb65">
+						<measure xml:id="m-35565616-6b62-4e6c-b9c3-f4f966ab2aaa" n="1">
+							<staff xml:id="m-26ca60e8-68e5-4588-b4fb-030cb1155d37" n="1">
+								<layer xml:id="m-9c9298c9-6e15-4d63-a88a-d526b52bbc3e" n="1">
+									<rest xml:id="m-6e7c2323-8713-47c2-aa5d-1b0f100d5adf" dur="1" color="red" />
+								</layer>
+								<layer xml:id="m-85343ffb-9c7f-4941-aebd-14192adf6046" n="2">
+									<rest xml:id="m-78f7219c-f765-4600-8007-738fc495d29d" dur="1" color="red" />
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

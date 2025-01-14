@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-2cb08556-04b2-4be5-8733-2c3a3a8074ac" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+	<meiHead xml:id="m-ce9da040-7af3-4d37-af8d-fedc919b6a91">
+		<fileDesc xml:id="m-6d26625f-4036-4f30-bdd3-47e768220513">
+			<titleStmt xml:id="m-9919b90e-120f-46b7-9a33-71ddaabbb3d2">
+				<title xml:id="m-b8e5c81d-a0d2-46de-9967-ab25ef2dd279">48_rock_120_beat_4-4</title>
+			</titleStmt>
+			<titleStmt xml:id="m-9919b90e-120f-46b7-9a33-71ddaabbb3d2">
+				<title xml:id="m-b8e5c81d-a0d2-46de-9967-ab25ef2dd279">48_rock_120_beat_4-4</title>
+			</titleStmt>
+		</fileDesc>
+	</meiHead>
+	<music xml:id="m-f8fa41eb-22de-4131-b0e2-234f1887a4c3">
+		<body xml:id="m-804e972e-85eb-45c2-9ebd-ad8d9fae8b36">
+			<mdiv xml:id="m-b03e3ef7-9884-4a13-96b2-c81fe0c86d9c">
+				<score xml:id="m-a311d9dc-a725-4216-b21c-4053e44231cf">
+					<scoreDef xml:id="m-f323954d-4159-4be7-99dc-4bddc52e702b" meter.count="4" meter.unit="4" keysig="0">
+						<staffGrp xml:id="m-898e4756-56ed-4e04-841c-88f6d83b94df">
+							<staffDef xml:id="m-d84c5717-4ea7-4082-a719-ba8b1e15b479" n="1" lines="5" keysig="0" meter.count="4" meter.unit="4">
+								<clef xml:id="m-5274ea1d-9555-4643-a4e8-1ba92ae20878" shape="perc" line="3" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-5222a3eb-14ac-4da6-bf22-047f73cf54b1">
+						<measure xml:id="m-2dad16f7-fc73-42a0-8e65-37174348cad3" n="1">
+							<staff xml:id="m-0dad3b02-a015-41b6-aaf2-a65c29b184ee" n="1">
+								<layer xml:id="m-eefdc40b-13ef-4145-bd71-5f88ec59b2ca" n="1">
+									<note xml:id="m-b1140686-bf04-43cb-8f78-bcdfbd6052be" pname="c" oct="5" accid.ges="s" head.shape="x" head.fill="void" dur="4" artic="acc" />
+									<note xml:id="m-c407b9e8-938a-4c10-b3e4-3f70ada001b0" pname="c" oct="5" accid.ges="s" head.shape="x" head.fill="void" dur="4" artic="acc" />
+									<note xml:id="m-0973b22f-ed6e-4810-adda-dbb85a0f025a" pname="c" oct="5" accid.ges="s" head.shape="x" head.fill="void" dur="2" artic="acc" />
+								</layer>
+								<layer xml:id="m-1644d926-9931-434b-85fe-0b73e51538b3" n="2">
+									<beam xml:id="m-37828b17-05e8-4b91-a847-feb92bedbb96">
+										<note xml:id="m-770f463e-baed-466b-95a2-581fb9e7ba23" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+										<note xml:id="m-bca4b3f5-78a7-4b2f-9608-0eccec26ef1e" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="8" />
+									</beam>
+									<beam xml:id="m-6d6d831b-bbe0-4930-84a0-889272bf440d">
+										<note xml:id="m-0a0a9c79-7fe6-4aaa-a9f0-f1080c0b46eb" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="8" />
+										<note xml:id="m-532699aa-ac47-44e1-aafa-55c876e95dd8" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" dur="8" />
+									</beam>
+									<note xml:id="m-bae3f7f5-4136-4437-b718-89635861c39b" pname="e" oct="3" head.shape="oval" head.fill="solid" dur="4" dots="1" />
+									<note xml:id="m-1a8a7152-788e-4ba7-8346-ae5b24738f0f" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" stem.mod="3slash" dur="8" />
+								</layer>
+							</staff>
+						</measure>
+						<measure xml:id="m-e59e18b7-9a0d-4c8d-8c83-2bbdfa4e723c" n="2">
+							<staff xml:id="m-4b96f73e-7b35-4a2e-8f27-04163f3a64fd" n="1">
+								<layer xml:id="m-ccb0ad4c-d5cd-416c-92d6-13b6c8503f3c" n="1">
+									<rest xml:id="m-d96ec758-5ae0-42ae-84c1-14a73da5c119" dur="1" />
+								</layer>
+								<layer xml:id="m-89566896-8fc5-4c6a-bc1c-30ef6be8303d" n="2">
+									<note xml:id="m-100eb254-9118-4090-960a-e3b0ad313cea" pname="c" oct="4" accid.ges="s" head.shape="oval" head.fill="solid" stem.mod="3slash" dur="4" />
+									<beam xml:id="m-35304483-035f-4ad8-96cf-e3ab0a13cd15">
+										<note xml:id="m-8ca7efcb-2d27-4d9e-b6c7-4a6b72afe1eb" pname="f" oct="4" accid.ges="s" head.mod="slash" head.fill="solid" dur="8" artic="acc" />
+										<note xml:id="m-18aa6f62-aed6-487a-a2ff-707bef72f789" pname="d" oct="4" head.shape="oval" head.fill="solid" dur="8" artic="acc" />
+									</beam>
+									<note xml:id="m-48037a88-57ec-47c6-b34d-7b68148e166e" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="4" artic="acc" />
+									<note xml:id="m-99833aa8-f3d2-4a54-850e-de695ddb4ba1" pname="g" oct="3" head.shape="oval" head.fill="solid" dur="4" artic="acc" />
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

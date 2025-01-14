@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-d73bd839-ad1e-415d-9d0b-bc02b3b72a85" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+	<meiHead xml:id="m-aa1aadc6-9b7b-4029-a8dd-bc4f201ce3ee">
+		<fileDesc xml:id="m-ff2a4312-2be0-4c30-b692-1b72227cabcc">
+			<titleStmt xml:id="m-66857aab-1a18-41a6-bc16-d1ee62938594">
+				<title xml:id="m-1250e311-e6b0-4387-86bd-c15fb502b060">22_rock_118_beat_4-4</title>
+			</titleStmt>
+			<titleStmt xml:id="m-66857aab-1a18-41a6-bc16-d1ee62938594">
+				<title xml:id="m-1250e311-e6b0-4387-86bd-c15fb502b060">22_rock_118_beat_4-4</title>
+			</titleStmt>
+		</fileDesc>
+	</meiHead>
+	<music xml:id="m-b6624a38-1e35-4e5f-94a3-f3ee3937a76d">
+		<body xml:id="m-b516d52a-1410-4575-85ad-360afd0efd48">
+			<mdiv xml:id="m-5ac3980b-5c6f-4edc-9152-6a7afd6e1782">
+				<score xml:id="m-00aaf6b0-ed34-46a8-b0e7-ef4d62547020">
+					<scoreDef xml:id="m-3364d52b-d37b-4f39-9f98-03b209b34bdd" meter.count="4" meter.unit="4" keysig="0">
+						<staffGrp xml:id="m-229d1af0-4183-43b1-bbf1-342957f5822a">
+							<staffDef xml:id="m-528bd963-230f-438d-b741-70cf36f5a15c" n="1" lines="5" keysig="0" meter.count="4" meter.unit="4">
+								<clef xml:id="m-764a2d33-bd04-4860-b01e-336326aad24e" shape="perc" line="3" />
+							</staffDef>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-d81f22f0-129a-4079-9a8d-cd645a6e35f3">
+						<measure xml:id="m-d68e41b6-3f3d-45f2-8cef-af76d116c6fb" n="1">
+							<staff xml:id="m-1b0ef843-13cf-4d29-bd94-6ba0e7dc3325" n="1">
+								<layer xml:id="m-974df1d0-8530-42df-a1fc-a2580a0975c2" n="1">
+									<rest xml:id="m-4035a1d4-23a9-4c27-be1f-cfbe2f8e8674" dur="1" />
+								</layer>
+								<layer xml:id="m-af02e922-bee2-4449-b1dd-fe01d1752efc" n="2">
+									<note xml:id="m-381d1f87-630c-4fa0-ac6d-0b88e4237976" pname="c" oct="3" accid.ges="s" head.shape="x" head.fill="void" dur="2" />
+									<note xml:id="m-99d5acd4-425c-4788-ac01-5947c4cd6cbc" pname="c" oct="3" accid.ges="s" head.shape="x" head.fill="void" dur="4" />
+									<note xml:id="m-0dd62976-e747-4246-a550-bdd243bfb0b7" pname="c" oct="3" accid.ges="s" head.shape="x" head.fill="void" dur="4" />
+								</layer>
+							</staff>
+						</measure>
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>
